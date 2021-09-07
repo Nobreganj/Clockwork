@@ -14,7 +14,7 @@ body {
   align-items: center;
   background-image: url(https://download.world-television.com/invest.png);
   display: flex;
-  ffont-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .container {
